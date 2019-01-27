@@ -97,6 +97,7 @@ function convertFromDecimalToTernary(decimalNum) {
         console.log(
             decimalNumCopy + "/ 3 = " + decimalNum + " (quotient) | remainder = " + remainder
         );
+        decimalNumCopy = decimalNum;
 
 
     }
